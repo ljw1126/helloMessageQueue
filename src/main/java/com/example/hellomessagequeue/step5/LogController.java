@@ -25,7 +25,6 @@ public class LogController {
         return ResponseEntity.ok("Controller Nullpointer Exception 처리 ");
     }
 
-
     @GetMapping("/warn")
     public ResponseEntity<String> warnAPI() {
         try {
