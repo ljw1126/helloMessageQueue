@@ -1,4 +1,4 @@
-package com.example.hellomessagequeue.step7;
+package com.example.hellomessagequeue.step8;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
