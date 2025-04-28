@@ -21,6 +21,7 @@ spring:
     port: 5672
     username: guest
     password: guest
+    publisher-confirm-type: correlated # Enable Publisher Confirms
   application:
     name: HelloMessageQueue
 server:
